@@ -1,4 +1,4 @@
-fetch('https://run.mocky.io/v3/7e4e062d-58d5-47ab-b230-7a2f22304dd6')
+fetch("https://maizzeena.github.io/jsondata/data.json")
 
     // Muunnetaan vastaus JSON muotoon
     .then(function (response) {
@@ -49,7 +49,7 @@ function kerro(data) {
 }
 
 
-fetch("https://run.mocky.io/v3/7fc719cf-3487-4d42-825a-b06eb2f591b6")
+fetch("https://maizzeena.github.io/mocky/mocky.json")
 
     // Muunnetaan vastaus JSON muotoon
     .then(function (response) {
